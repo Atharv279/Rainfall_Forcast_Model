@@ -1,7 +1,7 @@
 streamlit
 pandas
+numpy
 matplotlib
-google-generativeai
 plotly
-prophet==1.1.5
-cmdstanpy==1.2.0
+google-generativeai
+fbprophet==0.7.1

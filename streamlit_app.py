@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from fbprophet import Prophet
+from prophet import Prophet
 import numpy as np
 import warnings
 

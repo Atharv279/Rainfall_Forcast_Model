@@ -4,4 +4,5 @@ numpy
 matplotlib
 plotly
 google-generativeai
-fbprophet==0.7.1
+prophet==1.1.5
+pystan==2.19.1.1

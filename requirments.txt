@@ -1,6 +1,7 @@
 streamlit
 pandas
-prophet
 matplotlib
 google-generativeai
 plotly
+prophet==1.1.5
+cmdstanpy==1.2.0
